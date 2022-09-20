@@ -24,6 +24,11 @@
   color: white;
 }
 
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 1px solid  #61dafb;
+  border-radius: 1rem;
+}
 .App-link {
   color: #61dafb;
 }
